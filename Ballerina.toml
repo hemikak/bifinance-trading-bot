@@ -1,0 +1,7 @@
+[package]
+org = "hemik"
+name = "bifinance_trade_bot"
+version = "0.1.0"
+
+[build-options]
+observabilityIncluded = true
